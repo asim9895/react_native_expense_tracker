@@ -18,9 +18,12 @@ const Tabs = () => {
 					backgroundColor: COLORS.bottom_nav,
 					height: 60,
 					borderRadius: 20,
-					borderTopWidth: 0,
+					borderTopWidth: 1,
 					marginHorizontal: 10,
 					marginBottom: 10,
+					borderWidth: 1,
+					borderColor: COLORS.border,
+					borderTopColor: COLORS.border,
 				},
 			}}
 		>
