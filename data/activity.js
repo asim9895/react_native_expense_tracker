@@ -36,4 +36,12 @@ export const activity = [
 		payment_status: "Sent",
 		money: 563,
 	},
+	{
+		id: "5",
+		image: null,
+		name: "Reggi Ronalds",
+		date: "30 Mar",
+		payment_status: "Sent",
+		money: 563,
+	},
 ];
