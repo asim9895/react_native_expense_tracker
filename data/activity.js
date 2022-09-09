@@ -38,7 +38,7 @@ export const activity = [
 	},
 	{
 		id: "5",
-		image: null,
+		image: four,
 		name: "Reggi Ronalds",
 		date: "30 Mar",
 		payment_status: "Sent",

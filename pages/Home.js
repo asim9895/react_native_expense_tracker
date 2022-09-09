@@ -153,7 +153,7 @@ const Home = () => {
 					}
 					return (
 						<View
-							key={item.id}
+							key={index}
 							style={{
 								padding: 8,
 								flexDirection: "column",
@@ -213,7 +213,7 @@ const Home = () => {
 				{activity.map((item, index) => {
 					return (
 						<View
-							key={item.id}
+							key={index}
 							style={{
 								padding: 8,
 
